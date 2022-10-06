@@ -1,0 +1,17 @@
+{
+  "name": "PlayerSkills",
+  "author": "TheDerpGamer",
+  "description": "Adds in player-specific skills and talent progression.",
+  "version": "1.0.0",
+  "starmade_version": "0.203.125",
+  "client_mod": false,
+  "server_mod": false,
+  "main_class": "thederpgamer.playerskills.PlayerSkills",
+  "smd_resource_id": 9999,
+  "dependencies": [
+    -1
+  ],
+  "core_mod": false,
+  "requires_class_resize": false,
+  "hard_load_all_classes": false
+}
